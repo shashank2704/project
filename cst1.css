@@ -1,0 +1,169 @@
+body{
+position:relative;
+overflow-x:hidden;
+}
+
+
+aside{
+position:absolute;
+top:30px;
+left:100px;
+width:1000%;
+}
+
+.story{
+position:absolute;
+top:50px;
+height:300px;
+width:700px;
+background-color:white;
+border-radius:10px;
+box-shadow:2px 2px 5px 5px grey;
+}
+
+.stimage{
+position:absolute;
+top:30px;
+right:30px;
+border-radius:5px;
+}
+.btn
+{
+	font-size: 18px;
+	color:#fff;
+	letter-spacing: 2px;
+	margin:5px;
+	padding:7px 28px;
+	text-decoration:none;
+	border: 1px solid coral;
+	border-radius: 25px;
+}
+.btn1{
+	background:coral;
+	color: #fff;
+}
+.btn2{
+	background:coral;
+	color: #fff;
+}
+
+.chocolatepie{
+position:absolute;
+left:600px;
+top:400px;
+height:300px;
+width:700px;
+background-color:white;
+border-radius:10px;
+box-shadow:2px 2px 5px 5px grey;
+}
+
+.pimage{
+position:absolute;
+top:30px;
+left:30px;
+border-radius:5px;
+}
+
+.btn
+{
+	font-size: 18px;
+	color:#fff;
+	letter-spacing: 2px;
+	margin:5px;
+	padding:7px 28px;
+	text-decoration:none;
+	border: 1px solid coral;
+	border-radius: 25px;
+}
+.btn4{
+	background:coral;
+	color: #fff;
+}
+.btn5{
+	background:coral;
+	color: #fff;
+}
+.shashank{
+position:absolute;
+top:750px;
+height:300px;
+width:700px;
+background-color:white;
+border-radius:10px;
+box-shadow:2px 2px 5px 5px grey;
+}
+
+.ppimage{
+position:absolute;
+top:30px;
+right:40px;
+border-radius:5px;
+}
+
+.crush{
+position:absolute;
+left:650px;
+top:1100px;
+height:300px;
+width:700px;
+background-color:white;
+border-radius:10px;
+box-shadow:2px 2px 5px 5px grey;
+}
+
+.pppimage{
+position:absolute;
+top:30px;
+left:30px;
+border-radius:5px;
+}
+
+.para{
+position:absolute;
+top:40px;
+right:50px;
+}
+
+.para1{
+position:absolute;
+top:40px;
+left:30px;
+}
+
+.para2{
+position:absolute;
+top:40px;
+right:350px;
+}
+
+.para3{
+position:absolute;
+top:40px;
+right:50px;
+}
+
+
+footer{
+position:absolute;
+top:1500px;
+left:-9px;
+background-color:grey;
+height:100px;
+width:1500px;
+border-radius:2px;
+text-align:center;
+padding:10px;
+color:white;
+}
+
+footer table{
+position:absolute;
+top:30px;
+left:650px;
+}
+
+footer table td img:hover{
+box-shadow:20px 20px 50px 15px white;
+border-radius:5px;
+}
